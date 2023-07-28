@@ -26,5 +26,7 @@ The members of this file are:
          disable loading the panels dynamically
 3. Copy the FASTPATH exec into your production rexx or clist library
 4. update an ispf command table:
+```
    Verb      T  Action
    FASTPATH  5  SELECT CMD(%FASTPATH)
+```
