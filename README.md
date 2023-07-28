@@ -2,11 +2,13 @@
 This partitioned dataset contains the FASTPATH ISPF command dialog package.
 
 The members of this file are:
+```
     $DOC       What you are reading
     CHANGES    Change History
     FASTPATH   Fastpath REXX Exec
     EXTISPF    Edit macro to extract the ISPF Panels from the FASTPATH
                Exec
+```
 
 ## Installation recommendations:
 
